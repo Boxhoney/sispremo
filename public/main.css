@@ -1,0 +1,20 @@
+.full-h{
+    height: 84vh;
+}
+.ig{
+    width: 7vw;
+  }
+.ig2{
+    width: 2vw;
+  }
+.bar{
+    height: 8vh;
+}  
+#verSenha{
+    display: none;
+    cursor: pointer;
+}
+#nVerSenha{
+    display: flex;
+    cursor: pointer;
+}
